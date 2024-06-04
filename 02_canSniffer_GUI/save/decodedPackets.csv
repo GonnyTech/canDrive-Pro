@@ -1,0 +1,27 @@
+,,,,,,,,,,,,
+Bloccata,433 (Retro),00,00,08,00,00,00,00,00,90,00,0C
+Sbloccata,433 (Retro),00,00,08,00,00,00,00,00,A0,00,0C
+Radio on,26F (Radio),00,00,08,40,FF,00,00,00,00,00,00
+Radio off,26F (Radio),00,00,08,20,FF,00,00,00,00,00,00
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Tergicristalli smodato,265 (Frecce),00,00,08,88,10,00,02,20,80,40,44
+Tergicristalli alto,265 (Frecce),00,00,08,88,10,00,02,20,60,40,44
+Tergicristalli medio,265 (Frecce),00,00,08,88,10,00,02,20,40,40,44
+Tergicristalli mediominimo,265 (Frecce),00,00,08,88,10,00,02,20,20,40,44
+Tergicristalli minimo,265 (Frecce),00,00,08,88,10,00,02,20,00,40,44
+quattro frecce,265 (Frecce),00,00,08,E8,10,00,02,20,80,40,44
+frecce spente,265 (Frecce),00,00,08,88,10,00,02,20,80,40,44
+freccia destra,265 (Frecce),00,00,08,C8,10,00,02,20,80,40,44
+freccia sinistra,265 (Frecce),00,00,08,A8,10,00,02,20,80,40,44
+Gas a fondo,201 (GAS),00,00,08,00,00,40,00,00,00,C8,80
+Gas non premuto,201 (GAS),00,00,08,00,00,40,00,00,00,00,80
+Spenta,201 (GAS),00,00,08,00,00,40,00,00,00,00,80
+Idle,201 (GAS),00,00,08,04,00,40,00,00,00,00,80
+Freno rilasciato, 360 (Freno),00,00,08,72,1F,99,42,00,00,C3,B2
+Freno a fondo,360 (Freno),00,00,08,72,1F,5D,42,00,00,C2,B2
+Retro inserita,433 (Retro),00,00,08,00,00,00,02,00,A0,00,0C
+Folle,433 (Retro),00,00,08,00,00,00,00,00,A0,00,0C
+Portiere chiuse,433 (Retro),00,00,08,00,00,00,00,00,A0,00,0C
+Portiera passeggero aperta,433 (Retro),00,00,08,40,00,00,00,00,A0,00,0C
+Portiera guidatore aperta,433 (Retro),00,00,08,80,00,00,00,00,A0,00,0C
