@@ -1,6 +1,6 @@
 # DISCLAIMER!
 This repository was abandoned to the community by the original creator due to problems in 2020. 
-My only job was to pick the project up and adapt it to my car, updating it with more data and maaking it work with my vehicle. 
+My only job was to pick the project up and adapt it to my car, updating it with more data and making it work with my vehicle. 
 
 # canDrive
 Tools for hacking your car.
