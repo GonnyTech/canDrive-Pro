@@ -19,7 +19,7 @@
 #include <CAN.h>
 //------------------------------------------------------------------------------
 // Settings
-#define RANDOM_CAN 0
+#define RANDOM_CAN 1
 #define CAN_SPEED (125E3) //LOW=33E3, MID=95E3, HIGH=500E3 (for Vectra), //(125E3 For MK7 Ford Fiesta)
 
 //------------------------------------------------------------------------------
